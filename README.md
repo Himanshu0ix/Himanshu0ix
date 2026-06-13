@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/AWS_Cloud-█████░░░░░░░░░░-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-<h3 align="center">🐍 Watch my contributions get eaten</h3>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himanshu0ix/Himanshu0ix/output/github-contribution-grid-snake-dark.svg" />
@@ -56,8 +56,6 @@
 <h3>📅 Contribution Activity</h3>
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu0ix&bg_color=0d1117&color=a855f7&line=7c3aed&point=c026d3&area=true&area_color=1e1b4b&hide_border=false&border_color=30363d&custom_title=Contribution+Graph" width="100%" /></p>
 
-<h3>🏆 Trophies</h3>
-<p><img src="https://github-profile-trophy.vercel.app/?username=Himanshu0ix&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%" /></p>
 
 <h3>🌐 Community Status</h3>
 <p>
@@ -73,7 +71,6 @@
 | Repo | Language | Licence | Stars |
 |------|----------|---------|-------|
 | [Project-Ghost](https://github.com/Himanshu0ix/Project-Ghost) | Python | MIT | ⭐ 3 |
-| [wifi-autologin-script](https://github.com/Himanshu0ix/wifi-autologin-script) | Python | Apache 2.0 | — |
 | [CCTV-Hunter](https://github.com/Himanshu0ix/CCTV-Hunter) | Python | Apache 2.0 | ⭐ 1 |
 
 <p>
