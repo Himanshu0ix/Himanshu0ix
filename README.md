@@ -108,10 +108,13 @@
   <a href="https://tryhackme.com/p/himanshu0ix"><img src="https://img.shields.io/badge/TryHackMe-profile-7c3aed?style=flat-square&logo=tryhackme&logoColor=white&labelColor=161b22" /></a>
 </p>
 
-<h3>📌 Featured Projects</h3>
-<p><a href="https://github.com/Himanshu0ix/Project-Ghost"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu0ix&repo=Project-Ghost&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&icon_color=a855f7&text_color=c9d1d9" width="100%" /></a></p>
-<p><a href="https://github.com/Himanshu0ix/CCTV-Hunter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu0ix&repo=CCTV-Hunter&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&icon_color=a855f7&text_color=c9d1d9" width="100%" /></a></p>
-<p><a href="https://github.com/Himanshu0ix/wifi-autologin-script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu0ix&repo=wifi-autologin-script&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&icon_color=a855f7&text_color=c9d1d9" width="100%" /></a></p>
+### 📁 Featured Repositories
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu0ix&repo=Project-Ghost&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&icon_color=a855f7&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu0ix&repo=CCTV-Hunter&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&icon_color=a855f7&text_color=c9d1d9" width="49%" />
+</p>
+
 
 <h3>📈 Currently Working On</h3>
 <pre>
