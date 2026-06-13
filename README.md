@@ -3,3 +3,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himanshu0ix/Himanshu0ix/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Himanshu0ix/Himanshu0ix/output/github-contribution-grid-snake.svg" />
 </picture>
+
+
+'''
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,aws,bash,github,git,python,linux,docker,mysql,kali,linux,vscode&theme=dark&perline=6" />
+  </a>
+</p>
