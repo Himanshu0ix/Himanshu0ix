@@ -5,7 +5,7 @@
 </picture>
 
 
-## 🛠️ mī Tech Stack
+## mī Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,aws,bash,github,git,python,linux,docker,mysql,kali,linux,vscode&theme=dark&perline=6" />
