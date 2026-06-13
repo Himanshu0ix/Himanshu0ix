@@ -2,21 +2,18 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs every 6 hours
     - cron: "0 */6 * * *"
-  # Allows manual trigger from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          # Automatically uses your username — no need to hardcode it
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.gif
@@ -29,7 +26,7 @@ jobs:
         run: git status
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
