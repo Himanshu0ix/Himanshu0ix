@@ -51,7 +51,7 @@
 </p>
 
 <h3>📈 Most Used Languages</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu0ix&layout=bar&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&text_color=c9d1d9&hide_border=false&langs_count=6&custom_title=Most+Used+Languages" width="100%" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu0ix&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&text_color=c9d1d9&hide_border=false&langs_count=6&custom_title=Most+Used+Languages" width="100%" /></p>
 
 <h3>📅 Contribution Activity</h3>
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu0ix&bg_color=0d1117&color=a855f7&line=7c3aed&point=c026d3&area=true&area_color=1e1b4b&hide_border=false&border_color=30363d&custom_title=Contribution+Graph" width="100%" /></p>
