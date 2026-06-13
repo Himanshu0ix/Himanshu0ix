@@ -1,6 +1,3 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=Himanshu0ix&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20%7C%20Builder%20%7C%20Breaker&descAlignY=58&descAlign=50&descSize=18" />
-</div>
 
 <h1 align="center">Hi, I'm Himanshu! 👋</h1>
 
