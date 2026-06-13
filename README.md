@@ -92,8 +92,8 @@
 <p><b>I don't collect certificates. I collect proof.</b></p>
 <p>Cybersecurity student. Builder. Breaker. Constant learner.</p>
 <p>While most people read about security, I spend my time <b>testing it</b>. From web application security and reconnaissance to threat intelligence and cloud fundamentals, I'm obsessed with understanding how systems fail and how to make them stronger.</p>
-<p>I build tools because repetitive work is boring. <b>CCTV-Hunter</b> automates large-scale network reconnaissance. <b>Project Ghost</b> explores system-wide traffic routing and proxy automation. Every project starts with a question and ends with code.</p>
-<p>My playground includes <b>Python, Burp Suite, Wireshark, Linux, TryHackMe, OSINT</b>, and web security labs. Currently exploring <b>AWS</b> services such as <b>EC2, S3, VPC,</b> and <b>RDS</b> with a long-term goal of specializing in <b>Cloud Security</b>.</p>
+<p>I build tools because repetitive work is boring.
+<p>My daily task includes  <b>Python, Burp Suite, Wireshark, Linux, TryHackMe, OSINT</b>, and web security labs. And Currently exploring <b>AWS</b> services such as <b>EC2, S3, VPC,</b> and <b>RDS</b> with a long-term goal of specializing in <b>Cloud Security</b>.</p>
 <p>Ranked in the <b>top 4% on TryHackMe</b> with <b>90+ completed rooms</b>, I believe practical experience beats memorizing theory every single time.</p>
 
 <p align="center"><b>Building. Breaking. Learning. Repeating.</b></p>
