@@ -5,9 +5,9 @@
 </picture>
 
 
-## mī Tech Stack
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,aws,bash,github,git,python,linux,docker,mysql,kali,linux,vscode&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=arch,aws,bash,github,git,python,electron,docker,mysql,kali,linux,vscode&theme=dark&perline=12" />
   </a>
 </p>
