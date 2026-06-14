@@ -89,7 +89,6 @@
 </ul>
 
 <h3>🧑‍💻 About Me</h3>
-<p><b>I don't collect certificates. I collect proof.</b></p>
 <p>Cybersecurity student. Builder. Breaker. Constant learner.</p>
 <p>While most people read about security, I spend my time <b>testing it</b>. From web application security and reconnaissance to threat intelligence and cloud fundamentals, I'm obsessed with understanding how systems fail and how to make them stronger.</p>
 <p>I build tools because repetitive work is boring.
