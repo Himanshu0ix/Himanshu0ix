@@ -80,12 +80,12 @@
 
 <h3>✨ Fun Facts</h3>
 <ul>
-<li>🔴 6 hours debugging, fixed with one semicolon</li>
-<li>🌙 Best security testing happens at 2 AM</li>
-<li>🐧 Arch Linux because I like pain</li>
-<li>🎯 TryHackMe top 4% — theory is boring</li>
-<li>🛠️ CCTV-Hunter: built because 1000 IPs manually is insane</li>
-<li>📚 Learning Cloud Security & AWS architecture</li>
+<li>6 hours debugging, fixed with one semicolon</li>
+<li>Best security testing happens at 2 AM</li>
+<li>Arch Linux because I like pain</li>
+<li>TryHackMe top 4% — theory is boring</li>
+<li>CCTV-Hunter: built because 1000 IPs manually is insane</li>
+<li>Learning Cloud Security & AWS architecture</li>
 </ul>
 
 <h3>🧑‍💻 About Me</h3>
@@ -115,17 +115,15 @@
 
 <h3>📈 Currently Working On</h3>
 <pre>
-☁️  AWS Cloud Security  →  EC2 · S3 · VPC · IAM · RDS
-🕸️  Web App Pentesting  →  OWASP Top 10 in the wild
-🔭  OSINT Automation    →  building recon pipelines
-🧠  TryHackMe           →  grinding toward Top 1%
-🏴‍☠️  CTF Competitions   →  every weekend, no excuses
+  AWS Cloud Security  →  EC2 · S3 · VPC · IAM · RDS
+  Web App Pentesting  →  OWASP Top 10 in the wild
+  OSINT Automation    →  building recon pipelines
+  TryHackMe           →  grinding toward Top 1%
+  CTF Competitions   →  every weekend, no excuses
 </pre>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=Stay+Curious.+Stay+Dangerous.&fontSize=20&fontColor=a855f7&fontAlign=50&fontAlignY=55" />
-</div>
+
