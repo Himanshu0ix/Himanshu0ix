@@ -40,7 +40,7 @@
 
 <h3>📊 Activity & Stats</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Himanshu0ix&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&icon_color=a855f7&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true&custom_title=Himanshu+Singh's+GitHub+Stats" width="100%" /></p>
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu0ix&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&icon_color=a855f7&text_color=c9d1d9&hide_title=true&hide_border=false" width="48%" />
