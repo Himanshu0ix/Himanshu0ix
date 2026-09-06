@@ -38,49 +38,9 @@
 <tr>
 <td width="52%" valign="top">
 
-<h3>📊 Activity & Stats</h3>
 
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu0ix&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&icon_color=a855f7&text_color=c9d1d9&hide_title=true&hide_border=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Himanshu0ix&theme=github-dark-blue&background=0d1117&border=30363d&ring=c026d3&fire=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a855f7&sideLabels=a855f7&dates=6e7681&hide_border=false" width="48%" />
-</p>
-
-<h3>📈 Most Used Languages</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu0ix&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c026d3&text_color=c9d1d9&hide_border=false&langs_count=6&custom_title=Most+Used+Languages" width="100%" /></p>
-
-<h3>📅 Contribution Activity</h3>
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu0ix&bg_color=0d1117&color=a855f7&line=7c3aed&point=c026d3&area=true&area_color=1e1b4b&hide_border=false&border_color=30363d&custom_title=Contribution+Graph" width="100%" /></p>
-
-
-<h3>🌐 Community Status</h3>
-<p>
-  <img src="https://img.shields.io/github/followers/Himanshu0ix?label=followers&style=flat-square&color=a855f7&labelColor=161b22" />
-  <img src="https://img.shields.io/github/stars/Himanshu0ix?label=stars&style=flat-square&color=c026d3&labelColor=161b22&affiliations=OWNER" />
-  <img src="https://img.shields.io/github/watchers/Himanshu0ix/Himanshu0ix?label=watchers&style=flat-square&color=7c3aed&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/TryHackMe-top%204%25-c026d3?style=flat-square&logo=tryhackme&logoColor=white&labelColor=161b22" />
-  <img src="https://komarev.com/ghpvc/?username=Himanshu0ix&style=flat-square&color=7c3aed&label=views&labelColor=161b22" />
-</p>
-
-<h3>📁 Repository Index</h3>
-
-| Repo | Language | Licence | Stars |
-|------|----------|---------|-------|
-| [Project-Ghost](https://github.com/Himanshu0ix/Project-Ghost) | Python | MIT | ⭐ 3 |
-| [CCTV-Hunter](https://github.com/Himanshu0ix/CCTV-Hunter) | Python | Apache 2.0 | ⭐ 1 |
-
-<p>
-  <img src="https://img.shields.io/badge/Public_Repos-3-7c3aed?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Monthly_Commits-active-22c55e?style=flat-square&labelColor=161b22" />
-</p>
-
-</td>
-<td width="48%" valign="top">
 
 <h3>✨ Fun Facts</h3>
-<ul>
-<li>6 hours debugging, fixed with one semicolon</li>
 <li>Best security testing happens at 2 AM</li>
 <li>Arch Linux because I like pain</li>
 <li>TryHackMe top 4% — theory is boring</li>
